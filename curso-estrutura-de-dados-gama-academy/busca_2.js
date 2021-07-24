@@ -1,4 +1,7 @@
 //Busca binária
+/* 
+    Busca binária é super eficiente porém ela exige que os valores estejam ordenados.
+*/
 
 var valores = [5, 8, 10, 22, 38, 45, 45, 60, 68, 70, 71, 75, 80,];
 
