@@ -1,3 +1,5 @@
+//Busca sequencial
+
 var valores = [5, 8, 10, 22, 45, 38];
 
 function busca(num){
